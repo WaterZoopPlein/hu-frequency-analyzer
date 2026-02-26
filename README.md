@@ -1,6 +1,7 @@
 # hu-frequency-analyzer
 
 - Analyzing the importance based on frequencies of words occured in a Hungarian text.
+- Translate the words to English using entries from Hungarian-English Wiktionary entries collected from kaikki.org. 
 - Text used: The Paul Street Boys (A Pál utcai fiúk) by Molnár Ferenc.
 
 ## Important info about dependencies
