@@ -1,0 +1,2702 @@
+{
+  "pos": "noun",
+  "head_templates": [
+    {
+      "name": "head",
+      "args": {
+        "1": "hu",
+        "2": "noun",
+        "head": "",
+        "3": "countable and uncountable",
+        "4": "",
+        "5": "plural",
+        "6": "fák",
+        "7": "",
+        "8": "{{{alt}}}",
+        "nopalindromecat": ""
+      },
+      "expansion": "fa (countable and uncountable, plural fák)"
+    },
+    {
+      "name": "hu-noun",
+      "args": {
+        "1": "~",
+        "pl": "fák"
+      },
+      "expansion": "fa (countable and uncountable, plural fák)"
+    }
+  ],
+  "forms": [
+    {
+      "form": "fák",
+      "tags": [
+        "plural"
+      ]
+    },
+    {
+      "form": "no-table-tags",
+      "source": "declension",
+      "tags": [
+        "table-tags"
+      ]
+    },
+    {
+      "form": "hu-infl-nom",
+      "source": "declension",
+      "tags": [
+        "inflection-template"
+      ]
+    },
+    {
+      "form": "fa",
+      "tags": [
+        "nominative",
+        "singular"
+      ],
+      "source": "declension"
+    },
+    {
+      "form": "fák",
+      "tags": [
+        "nominative",
+        "plural"
+      ],
+      "source": "declension"
+    },
+    {
+      "form": "fát",
+      "tags": [
+        "accusative",
+        "singular"
+      ],
+      "source": "declension"
+    },
+    {
+      "form": "fákat",
+      "tags": [
+        "accusative",
+        "plural"
+      ],
+      "source": "declension"
+    },
+    {
+      "form": "fának",
+      "tags": [
+        "dative",
+        "singular"
+      ],
+      "source": "declension"
+    },
+    {
+      "form": "fáknak",
+      "tags": [
+        "dative",
+        "plural"
+      ],
+      "source": "declension"
+    },
+    {
+      "form": "fával",
+      "tags": [
+        "instrumental",
+        "singular"
+      ],
+      "source": "declension"
+    },
+    {
+      "form": "fákkal",
+      "tags": [
+        "instrumental",
+        "plural"
+      ],
+      "source": "declension"
+    },
+    {
+      "form": "fáért",
+      "tags": [
+        "causal-final",
+        "singular"
+      ],
+      "source": "declension"
+    },
+    {
+      "form": "fákért",
+      "tags": [
+        "causal-final",
+        "plural"
+      ],
+      "source": "declension"
+    },
+    {
+      "form": "fává",
+      "tags": [
+        "singular",
+        "translative"
+      ],
+      "source": "declension"
+    },
+    {
+      "form": "fákká",
+      "tags": [
+        "plural",
+        "translative"
+      ],
+      "source": "declension"
+    },
+    {
+      "form": "fáig",
+      "tags": [
+        "singular",
+        "terminative"
+      ],
+      "source": "declension"
+    },
+    {
+      "form": "fákig",
+      "tags": [
+        "plural",
+        "terminative"
+      ],
+      "source": "declension"
+    },
+    {
+      "form": "faként",
+      "tags": [
+        "essive-formal",
+        "singular"
+      ],
+      "source": "declension"
+    },
+    {
+      "form": "fákként",
+      "tags": [
+        "essive-formal",
+        "plural"
+      ],
+      "source": "declension"
+    },
+    {
+      "form": "-",
+      "tags": [
+        "essive-modal",
+        "singular"
+      ],
+      "source": "declension"
+    },
+    {
+      "form": "-",
+      "tags": [
+        "essive-modal",
+        "plural"
+      ],
+      "source": "declension"
+    },
+    {
+      "form": "fában",
+      "tags": [
+        "inessive",
+        "singular"
+      ],
+      "source": "declension"
+    },
+    {
+      "form": "fákban",
+      "tags": [
+        "inessive",
+        "plural"
+      ],
+      "source": "declension"
+    },
+    {
+      "form": "fán",
+      "tags": [
+        "singular",
+        "superessive"
+      ],
+      "source": "declension"
+    },
+    {
+      "form": "fákon",
+      "tags": [
+        "plural",
+        "superessive"
+      ],
+      "source": "declension"
+    },
+    {
+      "form": "fánál",
+      "tags": [
+        "adessive",
+        "singular"
+      ],
+      "source": "declension"
+    },
+    {
+      "form": "fáknál",
+      "tags": [
+        "adessive",
+        "plural"
+      ],
+      "source": "declension"
+    },
+    {
+      "form": "fába",
+      "tags": [
+        "illative",
+        "singular"
+      ],
+      "source": "declension"
+    },
+    {
+      "form": "fákba",
+      "tags": [
+        "illative",
+        "plural"
+      ],
+      "source": "declension"
+    },
+    {
+      "form": "fára",
+      "tags": [
+        "singular",
+        "sublative"
+      ],
+      "source": "declension"
+    },
+    {
+      "form": "fákra",
+      "tags": [
+        "plural",
+        "sublative"
+      ],
+      "source": "declension"
+    },
+    {
+      "form": "fához",
+      "tags": [
+        "allative",
+        "singular"
+      ],
+      "source": "declension"
+    },
+    {
+      "form": "fákhoz",
+      "tags": [
+        "allative",
+        "plural"
+      ],
+      "source": "declension"
+    },
+    {
+      "form": "fából",
+      "tags": [
+        "elative",
+        "singular"
+      ],
+      "source": "declension"
+    },
+    {
+      "form": "fákból",
+      "tags": [
+        "elative",
+        "plural"
+      ],
+      "source": "declension"
+    },
+    {
+      "form": "fáról",
+      "tags": [
+        "delative",
+        "singular"
+      ],
+      "source": "declension"
+    },
+    {
+      "form": "fákról",
+      "tags": [
+        "delative",
+        "plural"
+      ],
+      "source": "declension"
+    },
+    {
+      "form": "fától",
+      "tags": [
+        "ablative",
+        "singular"
+      ],
+      "source": "declension"
+    },
+    {
+      "form": "fáktól",
+      "tags": [
+        "ablative",
+        "plural"
+      ],
+      "source": "declension"
+    },
+    {
+      "form": "fáé",
+      "tags": [
+        "error-unrecognized-form",
+        "singular"
+      ],
+      "source": "declension"
+    },
+    {
+      "form": "fáké",
+      "tags": [
+        "error-unrecognized-form",
+        "plural"
+      ],
+      "source": "declension"
+    },
+    {
+      "form": "fáéi",
+      "tags": [
+        "error-unrecognized-form",
+        "singular"
+      ],
+      "source": "declension"
+    },
+    {
+      "form": "fákéi",
+      "tags": [
+        "error-unrecognized-form",
+        "plural"
+      ],
+      "source": "declension"
+    },
+    {
+      "form": "no-table-tags",
+      "source": "declension",
+      "tags": [
+        "table-tags"
+      ]
+    },
+    {
+      "form": "fám",
+      "tags": [
+        "first-person",
+        "possessed-single",
+        "possessive",
+        "singular"
+      ],
+      "source": "declension"
+    },
+    {
+      "form": "fáim",
+      "tags": [
+        "first-person",
+        "possessed-many",
+        "possessive",
+        "singular"
+      ],
+      "source": "declension"
+    },
+    {
+      "form": "fád",
+      "tags": [
+        "possessed-single",
+        "possessive",
+        "second-person",
+        "singular"
+      ],
+      "source": "declension"
+    },
+    {
+      "form": "fáid",
+      "tags": [
+        "possessed-many",
+        "possessive",
+        "second-person",
+        "singular"
+      ],
+      "source": "declension"
+    },
+    {
+      "form": "fája",
+      "tags": [
+        "possessed-single",
+        "possessive",
+        "singular",
+        "third-person"
+      ],
+      "source": "declension"
+    },
+    {
+      "form": "fái",
+      "tags": [
+        "possessed-many",
+        "possessive",
+        "singular",
+        "third-person"
+      ],
+      "source": "declension"
+    },
+    {
+      "form": "fánk",
+      "tags": [
+        "first-person",
+        "plural",
+        "possessed-single",
+        "possessive"
+      ],
+      "source": "declension"
+    },
+    {
+      "form": "fáink",
+      "tags": [
+        "first-person",
+        "plural",
+        "possessed-many",
+        "possessive"
+      ],
+      "source": "declension"
+    },
+    {
+      "form": "fátok",
+      "tags": [
+        "plural",
+        "possessed-single",
+        "possessive",
+        "second-person"
+      ],
+      "source": "declension"
+    },
+    {
+      "form": "fáitok",
+      "tags": [
+        "plural",
+        "possessed-many",
+        "possessive",
+        "second-person"
+      ],
+      "source": "declension"
+    },
+    {
+      "form": "fájuk",
+      "tags": [
+        "plural",
+        "possessed-single",
+        "possessive",
+        "third-person"
+      ],
+      "source": "declension"
+    },
+    {
+      "form": "fáik",
+      "tags": [
+        "plural",
+        "possessed-many",
+        "possessive",
+        "third-person"
+      ],
+      "source": "declension"
+    }
+  ],
+  "inflection_templates": [
+    {
+      "name": "hu-infl-nom",
+      "args": {
+        "1": "fá",
+        "2": "o"
+      }
+    }
+  ],
+  "sounds": [
+    {
+      "ipa": "[ˈfɒ]"
+    },
+    {
+      "audio": "Hu-fa.ogg",
+      "ogg_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Hu-fa.ogg",
+      "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/43/Hu-fa.ogg/Hu-fa.ogg.mp3"
+    },
+    {
+      "rhymes": "-fɒ"
+    }
+  ],
+  "etymology_text": "From Proto-Uralic *puwe. Cognates include Finnish puu.",
+  "etymology_templates": [
+    {
+      "name": "inh",
+      "args": {
+        "1": "hu",
+        "2": "urj-pro",
+        "3": "*puwe"
+      },
+      "expansion": "Proto-Uralic *puwe"
+    },
+    {
+      "name": "cog",
+      "args": {
+        "1": "fi",
+        "2": "puu"
+      },
+      "expansion": "Finnish puu"
+    }
+  ],
+  "word": "fa",
+  "lang": "Hungarian",
+  "lang_code": "hu",
+  "derived": [
+    {
+      "word": "fácska",
+      "_dis1": "0 0 0 0 0"
+    },
+    {
+      "word": "fás → fáskamra",
+      "_dis1": "0 0 0 0 0"
+    },
+    {
+      "word": "fáskosár",
+      "_dis1": "0 0 0 0 0"
+    },
+    {
+      "word": "fásláda",
+      "_dis1": "0 0 0 0 0"
+    },
+    {
+      "word": "fásít",
+      "_dis1": "0 0 0 0 0"
+    },
+    {
+      "word": "fásul → fásult",
+      "_dis1": "0 0 0 0 0"
+    },
+    {
+      "word": "fátlan",
+      "_dis1": "0 0 0 0 0"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "faalkotmány",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "faanyag",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "faarc",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "faág",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "faállomány",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "faáru",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fababa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fabalzsam",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fabatka",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fabáb",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "faberakás",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fabetegség",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fabeton",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fabódé",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "faburkolat",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "facement",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "facimbalom",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "facipő",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "facsavar",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "facsemete",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "facsiga",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "facsiszolat",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "facsoport",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fadarab",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fadarázs",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "faderék",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fadongó",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fadöntés",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fadugó",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fadúc",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "faecet",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "faedény",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "faeke",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "faeper",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "faesztergályos",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fafajta",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fafaragás",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fafaragó",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fafejű",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fafeldolgozás",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fafeldolgozó",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "faforgács",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fafúvó → fafúvós",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fafűrész",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fafűtés → fafűtéses",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fagaras",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fagáz",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fagomba",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fagyapot",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fagyöngy",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fahamu",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fahang",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fahasáb",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fahatár",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "faháncs",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "faház",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fahegy",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fahéj → fahéjszínű",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fahíd",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fahordó",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "faipar",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "faiskola",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fajankó",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fakabát",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fakalapács",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fakanál",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fakard",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fakátrány",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fakereskedő",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fakereszt",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fakép",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fakéreg",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fakilincs",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fakitermelés",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fakín",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fakopáncs",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fakorona",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fakova",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "faköpönyeg",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "faköszörűgép",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "faköszörület",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fakötés",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fakupa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fakutya",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fakúsz",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "faláb → falábú",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "faláda",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "falemez",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "falepárlás",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "falevél",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "falépcső",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "faló",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "famaró",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "famegmunkálás",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "famentes",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fametszés",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fametszet",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fametsző",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "faméh",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "famézga",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "famozaik",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "famunka → famunkás",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fanemesítés",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fanyelű",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fanyelv → fanyelvű",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fanyesés",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fanyűvő",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "faodú",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "faolaj",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "faóriás",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fapad → fapados",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fapapucs",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fapárolás",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fapofa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fapuska",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "faputtony",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "farablás",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "farakás",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "faraktár",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "farész",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "farontó",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "farost → farostlemez → farostlemezgyár",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "farönk",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fasor",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "faszállítás",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "faszeg",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "faszent",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "faszesz",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "faszén → faszéngáz",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "faszobor",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "faszobrász",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fatalp",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fatányér → fatányéros",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fatelep",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fatelítés",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fatemplom",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fatest",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fatetű",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fatornyos",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fatökű",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fatönk",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fatörzs",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fatuskó",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "fatüzelés → fatüzeléses",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "faúsztatás",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "favágás",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "favágó",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "favágító",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "faválaszték",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "faváz → favázas",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "favicc",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the beginning",
+      "word": "favilla",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "akácfa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "almafa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "aranyfa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "babérfa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "balsafa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "balzsamfa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "banánfa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "barackfa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "barkócafa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "bálványfa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "birsalmafa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "birskörtefa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "bocfa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "bodzafa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "bokrétafa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "borsófa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "bükkfa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "cédrusfa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "ciprusfa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "citromfa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "császárfa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "cserefa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "cseresznyefa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "cserfa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "datolyafa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "dinnyefa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "diófa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "ecetfa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "eperfa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "ezüstfa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "ébenfa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "égerfa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "fahéjfa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "fenyőfa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "fügefa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "fűzfa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "gesztenyefa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "gubacsfa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "gumifa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "gyertyánfa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "gyümölcsfa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "hársfa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "hólyagfa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "istenfa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "jávorfa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "jegenyefa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "juharfa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "júdásfa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "kajszibarackfa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "kaucsukfa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "kámforfa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "kányafa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "kenyérfa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "kékfa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "kininfa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "kínafa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "körtefa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "kőrisfa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "lepényfa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "licsifa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "liliomfa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "majomkenyérfa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "mandulafa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "mangófa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "meggyfa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "mogyorófa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "narancseperfa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "narancsfa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "nyárfa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "nyírfa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "olajfa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "orgonafa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "ostorfa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "ostorménfa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "paliszanderfa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "parafa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "pálmafa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "rózsafa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "sárgabarackfa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "sárkányfa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "somfa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "sóskafa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "sörgyefa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "szederfa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "szelídgesztenyefa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "szilfa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "szilvafa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "szivarfa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "tiszafa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "english": "formerly spelled teakfa",
+      "translation": "formerly spelled teakfa",
+      "word": "tíkfa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "tölgyfa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "trombitafa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "tulipánfa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "uborkafa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "vadalmafa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "vadgesztenyefa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "vadkörtefa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―tree species",
+      "word": "vasfa",
+      "_dis1": "14 4 37 13 32"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "ajtófa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "ajtófélfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "ajtószárfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "akasztófa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "akolófa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "alakfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "aprófa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "ágasfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "ágfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "állásfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "ászokfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "bálványfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "bányafa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "bélfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "bitófa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "bútorfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "családfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "csapófa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "csántérfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "csemetefa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "díszfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "dongafa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "dorongfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "elegyfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "életfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "épületfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "fejfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "félfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "főfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "főtefa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "fű-fa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "fűnek-fának",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "gallyfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "gyámfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "hagyásfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "hajítófa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "hasábfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "haszonfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "határfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "hámfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "kandallófa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "kaptafa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "kapufa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "kapufélfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "karácsonyfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "karfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "keményfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "keresztfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "kisafa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "konyhafa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "kopjafa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "korfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "koszorúfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "lármafa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "látófa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "lemezfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "lombfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "májfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "májusfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "mesefa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "mintázófa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "műfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "nemzetségfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "nótafa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "nyújtófa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "ollófa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "ostorfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "ölfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "párnafa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "piszkafa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "puhafa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "rénfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "rovásfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "rönkfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "rúdfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "sasfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "sámfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "sátorfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "sefűsefa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "simítófa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "sodrófa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "sorfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "stoppolófa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "süvegfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "szarufa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "szálfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "szárazfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "származásfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "szegélyfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "szelemenfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "szemöldökfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "szerfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "szerszámfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "szégyenfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "színfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "szolgafa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "talpfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "támaszfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "támfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "tilalomfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "tömőfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "törpefa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "törzsfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "tüzelőfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "tűzifa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "ujjafa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "ültetőfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "ütőfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "vakfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "vállfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Compound words with this term at the end―other",
+      "word": "vánkosfa",
+      "_dis1": "10 2 38 9 40"
+    },
+    {
+      "sense": "Expressions",
+      "word": "fából vaskarika",
+      "_dis1": "12 2 39 8 38"
+    },
+    {
+      "sense": "Expressions",
+      "word": "nem esik messze az alma a fájától",
+      "_dis1": "12 2 39 8 38"
+    },
+    {
+      "sense": "Expressions",
+      "word": "nem látja a fától az erdőt",
+      "_dis1": "12 2 39 8 38"
+    }
+  ],
+  "senses": [
+    {
+      "links": [
+        [
+          "tree",
+          "tree"
+        ]
+      ],
+      "meronyms": [
+        {
+          "word": "rügy"
+        },
+        {
+          "word": "hajtás"
+        },
+        {
+          "word": "vessző"
+        },
+        {
+          "word": "gally"
+        },
+        {
+          "word": "ág"
+        },
+        {
+          "word": "törzs"
+        },
+        {
+          "word": "gyökér"
+        },
+        {
+          "word": "levél"
+        },
+        {
+          "word": "lomb"
+        },
+        {
+          "word": "korona"
+        },
+        {
+          "word": "termés"
+        },
+        {
+          "word": "gyümölcs"
+        }
+      ],
+      "glosses": [
+        "tree (large woody plant)"
+      ],
+      "tags": [
+        "countable",
+        "uncountable"
+      ],
+      "id": "en-fa-hu-noun-YX-Z~3KX",
+      "categories": [
+        {
+          "name": "Hungarian entries with incorrect language header",
+          "kind": "other",
+          "parents": [],
+          "source": "w+disamb",
+          "_dis": "11 3 32 21 33"
+        },
+        {
+          "name": "Hungarian links with redundant alt parameters",
+          "kind": "other",
+          "parents": [],
+          "source": "w+disamb",
+          "_dis": "13 5 27 30 26"
+        },
+        {
+          "name": "Hungarian links with redundant wikilinks",
+          "kind": "other",
+          "parents": [],
+          "source": "w+disamb",
+          "_dis": "11 4 29 27 28"
+        },
+        {
+          "name": "Trees",
+          "kind": "other",
+          "parents": [],
+          "source": "w+disamb",
+          "orig": "hu:Trees",
+          "langcode": "hu",
+          "_dis": "20 8 28 22 21"
+        }
+      ]
+    },
+    {
+      "links": [
+        [
+          "wood",
+          "wood"
+        ]
+      ],
+      "glosses": [
+        "wood (substance beneath the bark of the trunk or branches of a tree)"
+      ],
+      "tags": [
+        "countable",
+        "uncountable"
+      ],
+      "id": "en-fa-hu-noun-smZ439mF"
+    },
+    {
+      "topics": [
+        "graph-theory",
+        "mathematics",
+        "sciences"
+      ],
+      "links": [
+        [
+          "graph theory",
+          "graph theory"
+        ],
+        [
+          "tree",
+          "tree"
+        ]
+      ],
+      "raw_glosses": [
+        "(graph theory) tree (connected graph with no cycles)"
+      ],
+      "glosses": [
+        "tree (connected graph with no cycles)"
+      ],
+      "tags": [
+        "countable",
+        "uncountable"
+      ],
+      "id": "en-fa-hu-noun-wnhcXIjM",
+      "categories": [
+        {
+          "name": "Graph theory",
+          "kind": "other",
+          "parents": [],
+          "source": "w",
+          "orig": "hu:Graph theory",
+          "langcode": "hu"
+        },
+        {
+          "name": "Hungarian entries with incorrect language header",
+          "kind": "other",
+          "parents": [],
+          "source": "w+disamb",
+          "_dis": "11 3 32 21 33"
+        },
+        {
+          "name": "Hungarian links with redundant alt parameters",
+          "kind": "other",
+          "parents": [],
+          "source": "w+disamb",
+          "_dis": "13 5 27 30 26"
+        },
+        {
+          "name": "Hungarian links with redundant wikilinks",
+          "kind": "other",
+          "parents": [],
+          "source": "w+disamb",
+          "_dis": "11 4 29 27 28"
+        },
+        {
+          "name": "Trees",
+          "kind": "other",
+          "parents": [],
+          "source": "w+disamb",
+          "orig": "hu:Trees",
+          "langcode": "hu",
+          "_dis": "20 8 28 22 21"
+        }
+      ]
+    },
+    {
+      "topics": [
+        "computing",
+        "computing-theory",
+        "engineering",
+        "mathematics",
+        "natural-sciences",
+        "physical-sciences",
+        "sciences"
+      ],
+      "links": [
+        [
+          "computing",
+          "computing#Noun"
+        ],
+        [
+          "theory",
+          "theory"
+        ],
+        [
+          "tree",
+          "tree"
+        ]
+      ],
+      "raw_glosses": [
+        "(computing theory) tree (recursive data structure)"
+      ],
+      "glosses": [
+        "tree (recursive data structure)"
+      ],
+      "tags": [
+        "countable",
+        "uncountable"
+      ],
+      "id": "en-fa-hu-noun-0sWqULSn",
+      "categories": [
+        {
+          "name": "Theory of computing",
+          "kind": "other",
+          "parents": [],
+          "source": "w",
+          "orig": "hu:Theory of computing",
+          "langcode": "hu"
+        },
+        {
+          "name": "Hungarian 2-letter words",
+          "kind": "other",
+          "parents": [],
+          "source": "w+disamb",
+          "_dis": "12 8 19 40 21"
+        },
+        {
+          "name": "Hungarian entries with incorrect language header",
+          "kind": "other",
+          "parents": [],
+          "source": "w+disamb",
+          "_dis": "11 3 32 21 33"
+        },
+        {
+          "name": "Hungarian links with redundant alt parameters",
+          "kind": "other",
+          "parents": [],
+          "source": "w+disamb",
+          "_dis": "13 5 27 30 26"
+        },
+        {
+          "name": "Hungarian links with redundant wikilinks",
+          "kind": "other",
+          "parents": [],
+          "source": "w+disamb",
+          "_dis": "11 4 29 27 28"
+        },
+        {
+          "name": "Trees",
+          "kind": "other",
+          "parents": [],
+          "source": "w+disamb",
+          "orig": "hu:Trees",
+          "langcode": "hu",
+          "_dis": "20 8 28 22 21"
+        }
+      ]
+    },
+    {
+      "links": [
+        [
+          "wooden",
+          "wooden"
+        ]
+      ],
+      "raw_glosses": [
+        "(attributive) wooden (made of wood)"
+      ],
+      "glosses": [
+        "wooden (made of wood)"
+      ],
+      "tags": [
+        "attributive",
+        "countable",
+        "uncountable"
+      ],
+      "id": "en-fa-hu-noun-RDewevXK",
+      "categories": [
+        {
+          "name": "Hungarian entries with incorrect language header",
+          "kind": "other",
+          "parents": [],
+          "source": "w+disamb",
+          "_dis": "11 3 32 21 33"
+        },
+        {
+          "name": "Hungarian links with redundant alt parameters",
+          "kind": "other",
+          "parents": [],
+          "source": "w+disamb",
+          "_dis": "13 5 27 30 26"
+        },
+        {
+          "name": "Hungarian links with redundant wikilinks",
+          "kind": "other",
+          "parents": [],
+          "source": "w+disamb",
+          "_dis": "11 4 29 27 28"
+        },
+        {
+          "name": "Trees",
+          "kind": "other",
+          "parents": [],
+          "source": "w+disamb",
+          "orig": "hu:Trees",
+          "langcode": "hu",
+          "_dis": "20 8 28 22 21"
+        }
+      ]
+    }
+  ]
+}
