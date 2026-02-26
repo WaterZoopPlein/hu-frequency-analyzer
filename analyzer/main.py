@@ -36,7 +36,7 @@ total_cum = cum_list[-1]
 for i in range(len(total_dict)):
     cum_list[i] = round(cum_list[i]/total_cum* 100,2)     
 
-with open(f"results/{TEXT_NAME}.csv", "w", newline="", encoding="utf-8") as f:
+with open(f"../results/{TEXT_NAME}.csv", "w", newline="", encoding="utf-8") as f:
     writer = csv.writer(f)
     writer.writerow(["token", "type", "score","cummulative percentage"])
 
